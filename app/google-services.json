@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849264806661",
+    "project_id": "examhelper-3ed72",
+    "storage_bucket": "examhelper-3ed72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849264806661:android:29905387816489de8e456c",
+        "android_client_info": {
+          "package_name": "com.example.examhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849264806661-orrjrq8j7b192rran70i9vtd46p328l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0ucvo6f_T59aSKjtntzVz4BA0RC4GBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849264806661-orrjrq8j7b192rran70i9vtd46p328l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
